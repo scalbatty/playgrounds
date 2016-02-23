@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='osx' display-mode='rendered'>
+    <pages>
+        <page name='var is for variable'/>
+        <page name='Hope I&apos;m your Type'/>
+        <page name='Let me be your non-Optional'/>
+        <page name='Collections'/>
+        <page name='Functions'/>
+        <page name='Class'/>
+        <page name='Value Types'/>
+        <page name='Enums are cool'/>
+        <page name='Let&apos;s see Protocols'/>
+    </pages>
+</playground>
